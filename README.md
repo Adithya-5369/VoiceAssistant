@@ -137,4 +137,11 @@ The assistant also includes a built-in dictionary, Chrome automation features, a
 
 ---
 
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with attribution.
+
+---
+
 Enjoy seamless interaction with your **VoiceAssistant** today!
